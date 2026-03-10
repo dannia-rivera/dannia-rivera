@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Dannia Rivera 👋
 
-<!--
-**dannia-rivera/dannia-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the University of Nebraska Omaha  
+💻 Interested in software development, systems analysis, and building real technical skills  
+🔧 Currently learning C, Python, and core computer science concepts  
 
-Here are some ideas to get you started:
+## Tech Skills
+- C
+- Python
+- Linux / ODIN Server
+- MobaXterm
+- Problem Solving
+- Data Structures (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm Working On
+- Integer Range Generator (C)
+- Time Conversion Calculator (C)
+
+## A Little About Me
+I’m building my programming skills while balancing school and hands-on work experience.  
+Right now I’m focused on growing my technical portfolio, learning by doing, and preparing for internships in tech.
+
+## Goals for 2026
+- Build stronger programming projects
+- Improve Python and SQL skills
+- Land a tech internship
