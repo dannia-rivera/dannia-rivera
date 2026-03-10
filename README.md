@@ -1,4 +1,4 @@
-# Hey, I'm Dannia Rivera 👋
+# Hey, I'm Dannia Rivera-Romero 👋
 
 🎓 Computer Science student at the University of Nebraska Omaha  
 💻 Interested in software development, systems analysis, and building real technical skills  
